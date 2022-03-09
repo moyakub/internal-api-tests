@@ -12,4 +12,5 @@
 
 
 ### To Run Pytest ###
-1. Run `pytest`
+1. Confiqure secret files - `.env` and `tests/packages/config_shop_environment.py`
+2. Run `pytest`
