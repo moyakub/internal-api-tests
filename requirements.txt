@@ -1,2 +1,3 @@
-pytest
-requests
+pytest   #python test framwork
+requests #package to call API
+python-dotenv #to access environment variables from .env file

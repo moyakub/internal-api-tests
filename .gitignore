@@ -3,3 +3,5 @@ __pycache__
 test_practice.py
 pytest.ini
 venv/*
+.env
+config_*.py
