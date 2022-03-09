@@ -8,3 +8,8 @@
 4. Run `source <virtual env folder name>/bin/activate` to activate virtual environment
 5. You should see (venv) in the termial which proves that virtual env is activated successfully.
 6. Run `pip install -r requirements.txt` 
+
+
+
+### To Run Pytest ###
+1. Run `pytest`
