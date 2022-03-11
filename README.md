@@ -1,5 +1,6 @@
 ## Tech Stack Used ##
-- Python, Pytest, JSON and REST APIs
+- Python, Pytest
+- JSON, REST APIs
 
 ## Initial Installation ##
 
