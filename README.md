@@ -1,3 +1,6 @@
+## Tech Stack Used ##
+- Python, Pytest, JSON and REST APIs
+
 ## Initial Installation ##
 
 1. Make sure you have python3 and pip installed on your machine. 
